@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/krishna-popat-053311233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kp" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/krishnapopat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kp" height="30" width="40" /></a>
-<a href="https://instagram.com/@nilakrishna_popat2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kp" height="30" width="40" /></a>
+<a href="https://instagram.com/nilakrishna_popat2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kp" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kp_2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="naitik_554" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Krishnapopat2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kp" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/21BCE228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kp" height="30" width="40" /></a>
