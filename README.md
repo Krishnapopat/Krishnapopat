@@ -26,5 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishnapopat&show_icons=true&locale=en&layout=compact" alt="kp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Krishnapopat&show_icons=true&locale=en" alt="Krishnapopat" /></p>
-
+[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishnapopat&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapopat&" alt="Krishnapopat" /></p>
